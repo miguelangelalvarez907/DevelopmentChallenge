@@ -37,6 +37,11 @@ obj/
 [Tt]esting*/
 Ankh.NoLoad
 
+# Ignorar archivos de salida de NuGet
+[Nn]u[Gg]et/
+*.nupkg
+packages/
+
 #MonoDevelop
 *.pidb
 *.userprefs
